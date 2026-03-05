@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!-- saved from url=(0077)file:///C:/Users/dhabe/OneDrive/Aditi%20Documents/html%20adi%20portfolio.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Doc</title>
+    <link rel="stylesheet" href="./Aditi portfolio_files/css.css">
+    <style>
+        #container {
+            display: flex;
+            align-items: center; 
+            justify-content: space-between; 
+        }
+        #navbar {
+            background-color: #000000;
+            overflow:hidden;
+            
+        }
+        #navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        #navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        #image {
+            width: 234px;
+            height: 357px;
+        }
+        #text {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="navbar"><pre>        <a href="file:///C:/Users/dhabe/OneDrive/Aditi%20Documents/html%20adi%20portfolio.html#Home" target="_blank">Home</a><a href="file:///C:/Users/dhabe/OneDrive/Aditi%20Documents/html%20adi%20portfolio.html#About%20me" target="_blank">About</a><a href="file:///C:/Users/dhabe/OneDrive/Aditi%20Documents/html%20adi%20portfolio.html#Myservices" target="_blank">Services</a><a href="file:///C:/Users/dhabe/OneDrive/Aditi%20Documents/html%20adi%20portfolio.html#Contact%20me" target="_blank">Contact</a>
+      </pre></div>
+
+    <div id="container">
+        
+        <img id="image" src="./Aditi portfolio_files/ADI2.jpg" alt="ADI">
+
+        <div id="text">
+            <h1><b>ADITI DHABEKAR</b></h1><h2>Software Developer</h2><h2>Student at St. Vincent Pallotti College of Engineering and Technology</h2>
+            <h4>HOME</h4>
+            <p>Welcome to all my teachers and friends! I am excited for this journey in the world of coding and design. It is an exciting adventure filled with creativity, learning, and innovation. As a student of web development, I am stepping into a dynamic field where my skills will help shape the digital future. I embrace each challenge as a stepping stone to becoming a skilled developer. I am thrilled to have you with me and can't wait to see the amazing things I'll create!</p>
+        </div>
+    </div>
+    <div id="home" class="content-section active">
+      <h4>HOME</h4>
+      <p>Welcome to all my teachers and friends! I am excited for this journey in the world of coding and design. It is an exciting adventure filled with creativity, learning, and innovation. As a student of web development, I am stepping into a dynamic field where my skills will help shape the digital future. I embrace each challenge as a stepping stone to becoming a skilled developer. I am thrilled to have you with me and can't wait to see the amazing things I'll create!</p>
+  </div>
+  <div id="about ME">
+      <h4>About Me</h4>
+      <p>Hi! I'm passionate about developing a software and love to  code. I enjoy learning new things and challenging myself. In my free time, I like to read travle and spend time my family. I'm always excited to connect with new people and explore new opportunities.
+      </p>
+      <p> My Skills:
+         I have completed my certified course in MS Word, MS Powerpoint presentation, c programming and python programming I'm comfortable with Python and Microsoft Office. 
+         
+         I am always looking to improve and learn new things to stay up-to-date in my field.
+         </p>
+  </div>
+  <div id="services">
+      <h4>Services</h4>
+      <p>Details about the services you offer go here.</p>
+  </div>
+  <div id="contact">
+      <h4>Contact</h4>
+      <p></p>
+  </div>
+
+
+</body></html>
